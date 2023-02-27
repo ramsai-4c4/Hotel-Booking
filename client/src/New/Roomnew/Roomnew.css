@@ -1,0 +1,65 @@
+.Hotel-adding{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Hotel-select{
+    width:70%;
+    height:43px;
+}
+.Text-numbers{
+    height:35px;
+    width:70%;
+}
+.Hotel-title{
+    width:80%;
+    height:50px;
+    display: flex;
+    align-items: center;
+    background-color:white;
+    border: 1px solid aliceblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    padding-left: 20px;
+    font-size: 18px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.hotel-newbtn{
+    width:130px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 10px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 4px;
+}
+.Hotelnew{
+    width:80%;
+    display: flex;
+    gap:20px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 500px;
+
+}
+.Hotelnewroom-left{
+    display: flex;
+    flex-direction: column;
+    gap: 62px;
+    width:40%;
+}
+.Hotelnew-right{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    width:40%;
+}
+.Hotelnew-input{
+    width:70%;
+    height:40px;
+}

@@ -1,0 +1,35 @@
+.Users{
+    width:100%;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.Users-header{
+    width:80%;
+    display: flex;
+    margin-top: 30px;
+    background-color: aliceblue;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+.Users-data{
+    width:80%;
+    margin-top: 30px;
+
+}
+.users-span{
+    font-size: 19px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.users-button{
+    font-size: 16px;
+    padding: 9px 13px;
+    border-radius: 5px;
+    background-color:lightblue;
+    border:none;
+    margin-right: 10px;
+}

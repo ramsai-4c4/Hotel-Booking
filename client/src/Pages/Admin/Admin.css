@@ -1,0 +1,36 @@
+.Admin-main{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+.Admin-count{
+    display:flex;
+    width:80%;
+    justify-content:center
+}
+.Admin-links{
+    width:80%;
+    display: flex;
+    height:50px;
+    background-color:lemonchiffon;
+    justify-content: space-around;
+    align-items: center;
+}
+.Admin-route{
+    color:cadetblue;
+    font-weight: 500;
+    text-decoration: none;
+}
+.Admin-title{
+    height:50px;
+    width:2px solid grey;
+    width:20%;
+    background-color:aliceblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 18px;
+    font-weight:500;
+}
